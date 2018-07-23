@@ -6,7 +6,6 @@ dogImages/
 haarcascades/
 lfw/
 requirements/
-Sample images/
 saved_models/
 extract_bottleneck_features.py
 notebook.tex
