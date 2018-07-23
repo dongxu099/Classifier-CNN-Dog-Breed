@@ -1,1 +1,5 @@
 DogVGG16Data.npz
+DogVGG19Data.npz
+DogResnet50Data.npz
+DogInceptionV3Data.npz
+DogXceptionData.npz
